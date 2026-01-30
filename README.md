@@ -1,10 +1,15 @@
 ## Hi there 👋
 <!-- Banner (optional light/dark image) -->
+<!-- Profile Banner -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://yourdomain.com/banner-dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://yourdomain.com/banner-light.png">
-    <img alt="Welcome Banner" src="https://yourdomain.com/banner-default.png">
+    <!-- Dark mode -->
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://raw.githubusercontent.com/GYSK-KRISH/GYSK-KRISH/main/assets/banner-dark.png"
+    />
+   srcset="https://raw.githubusercontent.com/GYSK-KRISH/GYSK-KRISH/main/assets/banner-light.png"
+    />
   </picture>
 </p>
 
