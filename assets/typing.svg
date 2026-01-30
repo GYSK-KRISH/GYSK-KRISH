@@ -1,0 +1,39 @@
+<svg width="900" height="70" viewBox="0 0 900 70"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <style>
+    text {
+      font-family: monospace;
+      font-size: 22px;
+      fill: #38bdf8;
+      text-anchor: middle;
+      opacity: 0;
+      animation: fade 12s infinite;
+    }
+
+    .line1 { animation-delay: 0s; }
+    .line2 { animation-delay: 4s; }
+    .line3 { animation-delay: 8s; }
+
+    @keyframes fade {
+      0% { opacity: 0 }
+      10% { opacity: 1 }
+      30% { opacity: 1 }
+      40% { opacity: 0 }
+      100% { opacity: 0 }
+    }
+  </style>
+
+  <text x="50%" y="45" class="line1">
+    🧠 Student Developer | Learning by Building
+  </text>
+
+  <text x="50%" y="45" class="line2">
+    ⚙️ Python • JavaScript • React • Open Source
+  </text>
+
+  <text x="50%" y="45" class="line3">
+    🚀 Exploring AI • Web Dev • System Thinking
+  </text>
+
+</svg>
