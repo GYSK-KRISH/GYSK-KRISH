@@ -76,7 +76,7 @@ _(Add short descriptions below in each repo’s settings on GitHub)_
 ## 🤝 Let’s Connect
 
 Feel free to connect or follow!  
-- 📫 Email: 
+- 📫 Email: gyskstudy@gmail.com
 - 💬 Always open to collaboration and learning!
 
 ---
