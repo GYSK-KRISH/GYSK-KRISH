@@ -15,6 +15,8 @@
     alt="Rotating Roles"
   />
 </p>
+---
+
 
 
 # 👋 Hi, I'm Krish
@@ -47,37 +49,17 @@ I'm a lifelong learner exploring software development through real projects and 
 
 ---
 
-## 📊 GitHub Stats
 
 <p align="center">
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=GYSK-KRISH&show_icons=true&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=GYSK-KRISH&show_icons=true&theme=default"
-      media="(prefers-color-scheme: light)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=GYSK-KRISH&show_icons=true" />
-  </picture>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GYSK-KRISH&theme=github_dark" />
 </p>
 
 <p align="center">
-  <picture>
-    <source 
-      srcset="https://github-readme-streak-stats.herokuapp.com?user=GYSK-KRISH&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-streak-stats.herokuapp.com?user=GYSK-KRISH&theme=default"
-      media="(prefers-color-scheme: light)"
-    />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=GYSK-KRISH" />
-  </picture>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GYSK-KRISH&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GYSK-KRISH&theme=github_dark&utcOffset=5.5" />
 </p>
 
----
+<!--  -->
 
 ## 📌 Featured Projects
 <!-- 
@@ -102,18 +84,3 @@ Feel free to connect or follow!
 ⭐ Thanks for stopping by!  
 Let’s build something amazing 🚀
 
-
-<!--
-**GYSK-KRISH/GYSK-KRISH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
