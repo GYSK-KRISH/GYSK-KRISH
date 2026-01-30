@@ -80,10 +80,10 @@ I'm a lifelong learner exploring software development through real projects and 
 ---
 
 ## 📌 Featured Projects
-
+<!-- 
 > Click pinned repos on my profile to explore these 👇  
 _(Add short descriptions below in each repo’s settings on GitHub)_
-
+ -->
 - ⭐ **Flagship Project** – A real-world project showing skills in React, APIs, and design  
 - 📱 **Web App** – Interactive frontend experience  
 - 🧪 **Utility Scripts** – Small tools for daily development  
@@ -94,8 +94,7 @@ _(Add short descriptions below in each repo’s settings on GitHub)_
 ## 🤝 Let’s Connect
 
 Feel free to connect or follow!  
-- 🌐 Portfolio: https://your-portfolio-url.com  
-- 📫 Email: your.email@example.com  
+- 📫 Email: 
 - 💬 Always open to collaboration and learning!
 
 ---
