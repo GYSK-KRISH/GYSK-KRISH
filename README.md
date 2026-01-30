@@ -1,16 +1,12 @@
 ## Hi there 👋
-<!-- Banner (optional light/dark image) -->
+
 <!-- Profile Banner -->
 <p align="center">
-  <picture>
-    <!-- Dark mode -->
-    <source 
-      media="(prefers-color-scheme: dark)" 
-      srcset="https://raw.githubusercontent.com/GYSK-KRISH/GYSK-KRISH/main/assets/banner-dark.png"
-    />
-   srcset="https://raw.githubusercontent.com/GYSK-KRISH/GYSK-KRISH/main/assets/banner-light.png"
-    />
-  </picture>
+  <img 
+    src="https://raw.githubusercontent.com/GYSK-KRISH/GYSK-KRISH/main/assets/banner.svg"
+    alt="GYSK-KRISH Banner"
+    width="100%"
+  />
 </p>
 
 # 👋 Hi, I'm Krish
