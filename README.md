@@ -9,6 +9,14 @@
   />
 </p>
 
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/GYSK-KRISH/GYSK-KRISH/main/assets/typing.svg"
+    alt="Rotating Roles"
+  />
+</p>
+
+
 # 👋 Hi, I'm Krish
 ### 🎓 Student Developer | Building with curiosity & passion 🚀  
 
