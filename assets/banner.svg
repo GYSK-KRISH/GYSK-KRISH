@@ -1,0 +1,54 @@
+<svg width="1280" height="240" viewBox="0 0 1280 240" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- DEFINITIONS -->
+  <defs>
+
+    <!-- Background gradient -->
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#020617"></stop>
+      <stop offset="100%" stop-color="#0f172a"></stop>
+    </linearGradient>
+
+    <!-- Glow filter -->
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="8" result="blur"></feGaussianBlur>
+      <feMerge>
+        <feMergeNode in="blur"></feMergeNode>
+        <feMergeNode in="SourceGraphic"></feMergeNode>
+      </feMerge>
+    </filter>
+
+    <!-- CSS inside SVG -->
+    <style>
+      .title {
+        font: 48px Segoe UI, Roboto, Arial, sans-serif;
+        fill: #e5e7eb;
+        transition: 0.3s ease;
+      }
+
+      .title:hover {
+        filter: url(#glow);
+        fill: #38bdf8;
+      }
+
+      .subtitle {
+        font: 20px Segoe UI, Roboto, Arial, sans-serif;
+        fill: #94a3b8;
+      }
+    </style>
+
+  </defs>
+
+  <!-- BACKGROUND -->
+  <rect width="1280" height="240" fill="url(#bg)"></rect>
+
+  <!-- TEXT -->
+  <text x="640" y="110" text-anchor="middle" class="title">
+    GYSK-KRISH
+  </text>
+
+  <text x="640" y="155" text-anchor="middle" class="subtitle">
+    Student → Developer • Learning by Building 🚀
+  </text>
+
+</svg>
