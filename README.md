@@ -4,22 +4,7 @@
 
 ### Student Developer • AI Explorer • Physics Enthusiast • Builder
 
-<p>
-  <img src="./assets/hero.svg" alt="Krish Singh — Student Laboratory" width="100%">
-</p>
 
-<p>
-  <b>PHYSICS</b> &nbsp;×&nbsp;
-  <b>ARTIFICIAL INTELLIGENCE</b> &nbsp;×&nbsp;
-  <b>SOFTWARE ENGINEERING</b> &nbsp;×&nbsp;
-  <b>EXPERIMENTS</b>
-</p>
-
-<p>
-  <code>LEARN</code> → <code>BUILD</code> → <code>BREAK</code> → <code>UNDERSTAND</code>
-</p>
-
-</div>
 
 ---
 
