@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="470" viewBox="0 0 800 470">
+<rect width="800" height="470" rx="24" fill="#0D1117"/><rect x="25" y="25" width="750" height="420" rx="18" fill="#0F172A" stroke="#6366F1" stroke-width="3"/>
+<circle cx="55" cy="60" r="7" fill="#A855F7"/><circle cx="80" cy="60" r="7" fill="#6366F1"/><circle cx="105" cy="60" r="7" fill="#38B2AC"/><text x="140" y="66" font-family="monospace" font-size="16" fill="#8B949E">krish.py</text>
+<line x1="45" y1="90" x2="755" y2="90" stroke="#6366F1" opacity=".4"/>
+<g font-family="monospace" font-size="21">
+<text x="55" y="140" fill="#A855F7">class</text><text x="120" y="140" fill="#E6EDF3"> KrishSingh:</text>
+<text x="80" y="185" fill="#38B2AC">learn()</text>
+<text x="80" y="225" fill="#38B2AC">build()</text>
+<text x="80" y="265" fill="#38B2AC">experiment()</text>
+<text x="80" y="305" fill="#6366F1">understand()</text>
+<text x="80" y="355" fill="#8B949E"># learn → build → experiment</text>
+<rect x="80" y="375" width="11" height="23" fill="#A855F7"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
+</g></svg>
