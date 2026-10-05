@@ -1,139 +1,364 @@
-## Hi there 👋
+<div align="center">
 
-<!-- Profile Banner -->
-<p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/GYSK-KRISH/GYSK-KRISH/main/assets/banner.svg"
-    alt="GYSK-KRISH Banner"
-    width="100%"
-  />
+# `KRISH SINGH`
+
+### Student Developer • AI Explorer • Physics Enthusiast • Builder
+
+<p>
+  <img src="./assets/hero.svg" alt="Krish Singh — Student Laboratory" width="100%">
 </p>
 
-<p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/GYSK-KRISH/GYSK-KRISH/main/assets/typing.svg"
-    alt="Rotating Roles"
-  />
+<p>
+  <b>PHYSICS</b> &nbsp;×&nbsp;
+  <b>ARTIFICIAL INTELLIGENCE</b> &nbsp;×&nbsp;
+  <b>SOFTWARE ENGINEERING</b> &nbsp;×&nbsp;
+  <b>EXPERIMENTS</b>
 </p>
----
 
+<p>
+  <code>LEARN</code> → <code>BUILD</code> → <code>BREAK</code> → <code>UNDERSTAND</code>
+</p>
 
-
-# 👋 Hi, I'm Krish
-### 🎓 Student Developer | Building with curiosity & passion 🚀  
-
-I'm a lifelong learner exploring software development through real projects and open source. I build things that solve problems and help me grow. I'm always open to feedback, collaboration, and new opportunities!
+</div>
 
 ---
 
-## 🔭 Currently Working On
-- Portfolio & flagship project 🚀  
-- Web apps with React & Next.js  
-- Backend APIs & developer tooling  
-- Learning best practices in clean code
+## 📖 Student Laboratory
+
+<p align="center">
+  <img src="./assets/student-book.svg" alt="Animated Student Laboratory notebook" width="78%">
+</p>
+
+> I am a student developer who enjoys turning ideas into working systems, interactive experiments, and software that people can actually explore.
+
+### What I explore
+
+| Area | Focus |
+|---|---|
+| ⚛ **Physics** | Mechanics, optics, waves, simulations, interactive experiments |
+| 🤖 **Artificial Intelligence** | Practical AI systems and intelligent applications |
+| 💻 **Software Engineering** | Frontend, backend, APIs, architecture, and real-world systems |
+| 🧮 **Mathematics** | The concepts behind computation, physics, and engineering |
+| 🧪 **Experiments** | Learning by building, testing, breaking, and improving |
+| 🌐 **Open Source** | Sharing projects and learning in public |
 
 ---
 
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <a href="https://react.dev" target="_blank">
-    <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
-  </a>
-  <a href="https://nextjs.org" target="_blank">
-    <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
-  </a>
-  <a href="https://www.typescriptlang.org" target="_blank">
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-  </a>
-  <a href="https://www.oracle.com/java/" target="_blank">
-    <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java" />
-  </a>
-  <a href="https://isocpp.org/" target="_blank">
-    <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" />
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask" />
-  </a>
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
-  </a>
-  <a href="https://tailwindcss.com" target="_blank">
-    <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-  </a>
-  <a href="https://git-scm.com" target="_blank">
-    <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
-  </a>
-</p>
-
-## 🤖 AI Tools & Platforms
-
-### 🌐 Web AI
+## 💻 Source Window
 
 <p align="center">
-  <a href="https://gemini.google.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Gemini-AI-5F5FFF?style=flat&logo=google&logoColor=white" alt="Gemini" />
-  </a>
-  <a href="https://chat.openai.com/" target="_blank">
-    <img src="https://img.shields.io/badge/ChatGPT-AI-00C88F?style=flat&logo=openai&logoColor=white" alt="ChatGPT" />
-  </a>
-  <a href="https://www.anthropic.com/claude" target="_blank">
-    <img src="https://img.shields.io/badge/Claude-AI-FF6F61?style=flat&logo=anthropic&logoColor=white" alt="Claude" />
-  </a>
-  <a href="https://github.com/features/copilot" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub_Copilot-AI-7B16FF?style=flat&logo=github&logoColor=white" alt="Copilot" />
-  </a>
-  <a href="https://huggingface.co/" target="_blank">
-    <img src="https://img.shields.io/badge/HuggingFace-AI-FF9900?style=flat&logo=huggingface&logoColor=white" alt="HuggingFace" />
-  </a>
+  <img src="./assets/code-window.svg" alt="Animated Krish Python code window" width="84%">
 </p>
 
-### 💻 Apps & IDEs
+```python
+class KrishSingh:
 
-<p align="center">
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  </a>
-  <a href="https://antigravity.ai/" target="_blank">
-    <img src="https://img.shields.io/badge/AntiGravity-AI-FF4081?style=flat&logo=antigravity&logoColor=white" alt="AntiGravity" />
-  </a>
-  <a href="https://aistudio.baidu.com/" target="_blank">
-    <img src="https://img.shields.io/badge/AI_Studio-AI-0052CC?style=flat&logo=baidu&logoColor=white" alt="AI Studio" />
-  </a>
-</p>
+    role = "Student Developer"
 
+    focus = [
+        "Physics",
+        "Artificial Intelligence",
+        "Software Engineering",
+        "Interactive Experiments",
+    ]
 
+    def learn(self):
+        return "Understand the fundamentals"
 
-## 📌 Featured Projects
-<!-- 
-> Click pinned repos on my profile to explore these 👇  
-_(Add short descriptions below in each repo’s settings on GitHub)_
- -->
-- ⭐ **Flagship Project** – A real-world project showing skills in React, APIs, and design  
-- 📱 **Web App** – Interactive frontend experience  
-- 🧪 **Utility Scripts** – Small tools for daily development  
-- 📚 **Learning Repos** – Code organized around skill development
+    def build(self):
+        return "Turn ideas into working systems"
+
+    def experiment(self):
+        return "Try → test → break → improve"
+```
 
 ---
 
-## 🤝 Let’s Connect
+## 🧪 Experiment Log
 
-Feel free to connect or follow!  
-- 📫 Email: gyskstudy@gmail.com
-- 💬 Always open to collaboration and learning!
+> This is where ideas become projects.
+
+### `[001]` ⚛ PhysicsLab
+
+**Interactive Physics Laboratory**
+
+A large experimental environment for learning physics through interactive simulations and visual experiments.
+
+**Exploring:** Mechanics • Optics • Waves • Motion • Simulation
+
+**Status:** `● BUILDING`
 
 ---
 
-⭐ Thanks for stopping by!  
-Let’s build something amazing 🚀
+### `[002]` 🛡 AI Public Safety
 
+**AI-powered Public Safety & Emergency Response Platform**
+
+A project exploring how AI, mobile technology, maps, realtime communication, and backend systems can support emergency response and public safety.
+
+**Exploring:** AI • Flutter • FastAPI • PostgreSQL • Maps • Realtime Systems
+
+**Status:** `● ENGINEERING`
+
+---
+
+### `[003]` 🧪 Canvas Experiments
+
+Interactive browser-based experiments built around JavaScript and Canvas.
+
+**Exploring:** Visual simulation • Physics engines • Interactive systems
+
+**Status:** `● EXPERIMENTING`
+
+---
+
+### `[004]` 🌐 Open Source
+
+Learning by building projects publicly, documenting experiments, and improving through iteration.
+
+**Status:** `● CONTINUOUS`
+
+---
+
+# ⚛ PhysicsLab
+
+<div align="center">
+
+### `INTERACTIVE PHYSICS LABORATORY`
+
+**Learn physics by seeing it move.**
+
+</div>
+
+PhysicsLab is an interactive environment focused on turning physics concepts into visual experiments instead of keeping them only as equations on a page.
+
+### Laboratory areas
+
+```text
+MECHANICS
+├── Kinematics
+├── Laws of Motion
+├── Work, Energy & Power
+├── System of Particles
+├── Rotational Motion
+├── Gravitation
+├── Mechanical Properties
+├── Oscillations
+└── Waves
+
+OPTICS
+├── Convex Lens
+├── Concave Lens
+├── Concave Mirror
+├── Convex Mirror
+├── Refraction
+├── Prism
+├── Total Internal Reflection
+├── Optical Instruments
+└── Light Ray Laboratory
+```
+
+**Core idea:**
+
+> `EQUATION → MODEL → SIMULATION → UNDERSTANDING`
+
+---
+
+# 🛡 AI Public Safety
+
+<div align="center">
+
+### `BUILDING TECHNOLOGY FOR EMERGENCY RESPONSE`
+
+</div>
+
+An AI-powered public safety and emergency response platform designed around communication between citizens, emergency services, police, and intelligent software systems.
+
+### Core direction
+
+```text
+CITIZEN
+   │
+   ├── Emergency SOS
+   ├── Incident Reporting
+   ├── Location Sharing
+   └── AI Assistance
+          │
+          ▼
+     AI / BACKEND
+          │
+   ┌──────┼────────┐
+   ▼      ▼        ▼
+POLICE  DISPATCH  SERVICES
+   │      │        │
+   └──────┴────────┘
+          │
+          ▼
+   EMERGENCY RESPONSE
+```
+
+### Technologies explored
+
+`Flutter` `FastAPI` `Python` `PostgreSQL` `PostGIS` `Redis` `Firebase` `Google Maps` `AI/ML`
+
+**Status:** `● BUILDING`
+
+---
+
+# 🧰 Engineering Stack
+
+<div align="center">
+
+### LANGUAGES
+
+`Python` `JavaScript` `Dart` `HTML` `CSS`
+
+### AI / ML
+
+`Artificial Intelligence` `Computer Vision` `Machine Learning`
+
+### BACKEND
+
+`FastAPI` `PostgreSQL` `PostGIS` `Redis`
+
+### FRONTEND
+
+`Flutter` `JavaScript` `Canvas`
+
+### DEVELOPMENT
+
+`Git` `GitHub` `VS Code` `REST APIs`
+
+</div>
+
+---
+
+# 🧠 How I Learn
+
+```text
+        ┌───────────────┐
+        │    QUESTION   │
+        └───────┬───────┘
+                ↓
+        ┌───────────────┐
+        │    EXPLORE    │
+        └───────┬───────┘
+                ↓
+        ┌───────────────┐
+        │     BUILD     │
+        └───────┬───────┘
+                ↓
+        ┌───────────────┐
+        │     BREAK     │
+        └───────┬───────┘
+                ↓
+        ┌───────────────┐
+        │   UNDERSTAND  │
+        └───────┬───────┘
+                ↓
+        ┌───────────────┐
+        │    IMPROVE    │
+        └───────────────┘
+```
+
+I don't want to only collect technologies.
+
+I want to understand **why systems work, how they fail, and how to build them better.**
+
+---
+
+# 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=GYSK-KRISH&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=E6EDF3&icon_color=6366F1" height="165">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GYSK-KRISH&hide_border=true&background=0D1117&ring=A855F7&fire=6366F1&currStreakLabel=E6EDF3&sideLabels=8B949E&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E" height="165">
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GYSK-KRISH&bg_color=0D1117&color=E6EDF3&line=A855F7&point=38B2AC&area=true&hide_border=true" width="96%">
+
+</div>
+
+---
+
+# 🎯 2026 Mission
+
+```text
+┌────────────────────────────────────────────────────────────┐
+│                         2026                               │
+│                                                            │
+│                    BUILD REAL SYSTEMS                      │
+│                                                            │
+│   ✓ Learn deeply                                           │
+│   ✓ Build consistently                                     │
+│   ✓ Experiment fearlessly                                  │
+│   ✓ Understand fundamentals                                │
+│   ✓ Contribute openly                                      │
+│   ✓ Turn ideas into working projects                       │
+│                                                            │
+│              MAKE SOMETHING WORTH EXPLORING.               │
+└────────────────────────────────────────────────────────────┘
+```
+
+---
+
+# 🌱 Currently Exploring
+
+```text
+AI SYSTEMS
+████████████████████░░░░  Exploring
+
+PHYSICS SIMULATIONS
+██████████████████████░░  Building
+
+SOFTWARE ENGINEERING
+███████████████████░░░░░  Learning
+
+OPEN SOURCE
+████████████████░░░░░░░░  Growing
+```
+
+> Progress is not a finished state. It is a system that keeps improving.
+
+---
+
+# 🌐 Connect
+
+<div align="center">
+
+<a href="https://github.com/GYSK-KRISH">
+  <img src="https://img.shields.io/badge/GitHub-GYSK--KRISH-0D1117?style=for-the-badge&logo=github&logoColor=E6EDF3">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+```text
+> krish --status
+
+student        ✓
+developer      ✓
+physics        ✓
+artificial-ai  ✓
+builder        ✓
+experimenter   ✓
+
+SYSTEM STATUS: ● BUILDING
+
+$ keep_building
+```
+
+### `LEARN • BUILD • EXPERIMENT • SHARE`
+
+<sub>Designed with a student mindset and an engineering obsession.</sub>
+
+</div>
