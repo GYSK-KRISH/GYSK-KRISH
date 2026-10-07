@@ -96,11 +96,7 @@ A large experimental environment for learning physics through interactive simula
 
 ### `[002]` 🛡 AI Public Safety
 
-**AI-powered Public Safety & Emergency Response Platform**
-
-A project exploring how AI, mobile technology, maps, realtime communication, and backend systems can support emergency response and public safety.
-
-**Exploring:** AI • Flutter • FastAPI • PostgreSQL • Maps • Realtime Systems
+**AI-powered Public Safety & Emergency 
 
 **Status:** `● ENGINEERING`
 
@@ -122,90 +118,6 @@ Learning by building projects publicly, documenting experiments, and improving t
 
 **Status:** `● CONTINUOUS`
 
----
-
-# ⚛ PhysicsLab
-
-<div align="center">
-
-### `INTERACTIVE PHYSICS LABORATORY`
-
-**Learn physics by seeing it move.**
-
-</div>
-
-PhysicsLab is an interactive environment focused on turning physics concepts into visual experiments instead of keeping them only as equations on a page.
-
-### Laboratory areas
-
-```text
-MECHANICS
-├── Kinematics
-├── Laws of Motion
-├── Work, Energy & Power
-├── System of Particles
-├── Rotational Motion
-├── Gravitation
-├── Mechanical Properties
-├── Oscillations
-└── Waves
-
-OPTICS
-├── Convex Lens
-├── Concave Lens
-├── Concave Mirror
-├── Convex Mirror
-├── Refraction
-├── Prism
-├── Total Internal Reflection
-├── Optical Instruments
-└── Light Ray Laboratory
-```
-
-**Core idea:**
-
-> `EQUATION → MODEL → SIMULATION → UNDERSTANDING`
-
----
-
-# 🛡 AI Public Safety
-
-<div align="center">
-
-### `BUILDING TECHNOLOGY FOR EMERGENCY RESPONSE`
-
-</div>
-
-An AI-powered public safety and emergency response platform designed around communication between citizens, emergency services, police, and intelligent software systems.
-
-### Core direction
-
-```text
-CITIZEN
-   │
-   ├── Emergency SOS
-   ├── Incident Reporting
-   ├── Location Sharing
-   └── AI Assistance
-          │
-          ▼
-     AI / BACKEND
-          │
-   ┌──────┼────────┐
-   ▼      ▼        ▼
-POLICE  DISPATCH  SERVICES
-   │      │        │
-   └──────┴────────┘
-          │
-          ▼
-   EMERGENCY RESPONSE
-```
-
-### Technologies explored
-
-`Flutter` `FastAPI` `Python` `PostgreSQL` `PostGIS` `Redis` `Firebase` `Google Maps` `AI/ML`
-
-**Status:** `● BUILDING`
 
 ---
 
